@@ -11,4 +11,4 @@ function bgChange() {
 
 btn.ondblclick = bgChange;
 
-window.onkeypress = bgChange;
+window.onkeydown = bgChange;
