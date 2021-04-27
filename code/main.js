@@ -9,6 +9,6 @@ function bgChange() {
     document.body.style.backgroundColor = rndCol;
 }
 
-btn.ondblclick = bgChange;
+btn.onmouseover = bgChange;
 
 window.onkeyup = bgChange;
