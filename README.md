@@ -10,3 +10,5 @@ First, make a local copy of random-color-eventhandlerproperty.html, and open it 
 - btn.onmouseover and btn.onmouseout — The color changes when the mouse pointer hovers over the button, or when the pointer moves off the button, respectively.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events
+
+Live web: https://gitthuma.github.io/event-handler-properties-example/
