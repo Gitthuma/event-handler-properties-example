@@ -9,4 +9,4 @@ function bgChange() {
     document.body.style.backgroundColor = rndCol;
 }
 
-btn.onfocus = bgChange;
+btn.onblur = bgChange;
